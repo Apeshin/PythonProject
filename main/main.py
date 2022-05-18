@@ -1,1 +1,3 @@
-print("HEllo")
+import Django
+
+print("text")
